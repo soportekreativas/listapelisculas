@@ -142,6 +142,7 @@ http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/069.mp4/playlist.m3
 #EXTINF:-1,CAP 70
 http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/070.mp4/playlist.m3u8
 #EXTINF:-1,CAP 71
+<<<<<<< HEAD
 http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/071.mp4/playlist.m3u8
 #EXTINF:-1,CAP 72
 http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/072.mp4/playlist.m3u8
@@ -228,6 +229,92 @@ http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/112.mp4/playlist.m3
 #EXTINF:-1,CAP 113
 http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/113.mp4/playlist.m3u8
 #EXTINF:-1,CAP 114
+=======
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/072.mp4/playlist.m3u8
+#EXTINF:-1,CAP 72
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/073.mp4/playlist.m3u8
+#EXTINF:-1,CAP 73
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/074.mp4/playlist.m3u8
+#EXTINF:-1,CAP 74
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/075.mp4/playlist.m3u8
+#EXTINF:-1,CAP 75
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/076.mp4/playlist.m3u8
+#EXTINF:-1,CAP 76
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/077.mp4/playlist.m3u8
+#EXTINF:-1,CAP 77
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/078.mp4/playlist.m3u8
+#EXTINF:-1,CAP 78
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/079.mp4/playlist.m3u8
+#EXTINF:-1,CAP 79
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/080.mp4/playlist.m3u8
+#EXTINF:-1,CAP 80
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/081.mp4/playlist.m3u8
+#EXTINF:-1,CAP 81
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/082.mp4/playlist.m3u8
+#EXTINF:-1,CAP 82
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/083.mp4/playlist.m3u8
+#EXTINF:-1,CAP 83
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/084.mp4/playlist.m3u8
+#EXTINF:-1,CAP 84
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/085.mp4/playlist.m3u8
+#EXTINF:-1,CAP 85
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/086.mp4/playlist.m3u8
+#EXTINF:-1,CAP 86
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/087.mp4/playlist.m3u8
+#EXTINF:-1,CAP 87
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/088.mp4/playlist.m3u8
+#EXTINF:-1,CAP 88
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/089.mp4/playlist.m3u8
+#EXTINF:-1,CAP 89
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/090.mp4/playlist.m3u8
+#EXTINF:-1,CAP 90
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/091.mp4/playlist.m3u8
+#EXTINF:-1,CAP 91
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/092.mp4/playlist.m3u8
+#EXTINF:-1,CAP 92
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/093.mp4/playlist.m3u8
+#EXTINF:-1,CAP 93
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/094.mp4/playlist.m3u8
+#EXTINF:-1,CAP 94
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/095.mp4/playlist.m3u8
+#EXTINF:-1,CAP 95
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/096.mp4/playlist.m3u8
+#EXTINF:-1,CAP 96
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/097.mp4/playlist.m3u8
+#EXTINF:-1,CAP 97
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/098.mp4/playlist.m3u8
+#EXTINF:-1,CAP 98
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/099.mp4/playlist.m3u8
+#EXTINF:-1,CAP 99
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/100.mp4/playlist.m3u8
+#EXTINF:-1,CAP 100
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/101.mp4/playlist.m3u8
+#EXTINF:-1,CAP 101
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/102.mp4/playlist.m3u8
+#EXTINF:-1,CAP 102
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/103.mp4/playlist.m3u8
+#EXTINF:-1,CAP 103
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/104.mp4/playlist.m3u8
+#EXTINF:-1,CAP 104
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/105.mp4/playlist.m3u8
+#EXTINF:-1,CAP 105
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/106.mp4/playlist.m3u8
+#EXTINF:-1,CAP 106
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/107.mp4/playlist.m3u8
+#EXTINF:-1,CAP 107
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/108.mp4/playlist.m3u8
+#EXTINF:-1,CAP 108
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/109.mp4/playlist.m3u8
+#EXTINF:-1,CAP 109
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/110.mp4/playlist.m3u8
+#EXTINF:-1,CAP 110
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/111.mp4/playlist.m3u8
+#EXTINF:-1,CAP 111
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/112.mp4/playlist.m3u8
+#EXTINF:-1,CAP 112
+http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/113.mp4/playlist.m3u8
+#EXTINF:-1,CAP 113
+>>>>>>> refs/remotes/origin/fer
 http://k3.usastreams.com:1935/vod499/_definst_/mp4:tomyjerry/114.mp4/playlist.m3u8
 
 
